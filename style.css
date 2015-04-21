@@ -1,0 +1,80 @@
+body { color: #38B2DD; background-color: #002837; margin: 0px; font-family: Arial; }
+a { color: #ACE9FF; text-decoration: none; }
+h1, h5 { padding: 0px; margin: 0px; }
+h5 { font-size: 0.80em; font-family: Georgia; }
+table { background-color: #444; }
+#head { background-color: black; padding: 64px 0px 0.5em 64px; color: #319CC2; }
+#head h1 { font-family: Georgia; display: inline; padding-right: 40px; background-image: url(rockford_big.gif); background-repeat: no-repeat; background-position: 100% 50%; }
+#head .alert { color: #C23030; }
+#main { margin-left: 64px; margin-top: 1px; }
+#cap { margin: 32px 0px; width: 240px; position: relative; z-index: 1; float: left; cursor: crosshair; }
+#instr { margin-left: 304px; padding-top: 32px; }
+.clear { clear: left; }
+p, ul { text-transform: uppercase; font-size: 9px; }
+ul { list-style-type: square; margin: 0.5em 0px; }
+ul { padding-left: 0px; }
+li { line-height: 14px; }
+td { width: 16px; height: 16px; }
+.alert { color: #DD3737; }
+td { background-image: url(_graphics.gif); }
+.e { background-position: -8px -128px; }
+.i { background-position: -128px -104px; }
+.w { background-position: -176px -104px; }
+.s { background-position: -80px -104px; }
+.o { background-position: -56px -104px; }
+.f_0 .f { background-position: -208px -32px; }
+.f_1 .f { background-position: -232px -32px; }
+.f_2 .f { background-position: -256px -32px; }
+.f_3 .f { background-position: -280px -32px; }
+.f_4 .f { background-position: -304px -32px; }
+.f_5 .f { background-position: -328px -32px; }
+.f_6 .f { background-position: -352px -32px; }
+.f_7 .f { background-position: -376px -32px; }
+.f_0 .q { background-position: -208px -80px; }
+.f_1 .q { background-position: -232px -80px; }
+.f_2 .q { background-position: -256px -80px; }
+.f_3 .q { background-position: -280px -80px; }
+.f_4 .q { background-position: -304px -80px; }
+.f_5 .q { background-position: -328px -80px; }
+.f_6 .q { background-position: -352px -80px; }
+.f_7 .q { background-position: -376px -80px; }
+.f_0 .j { background-position: -208px -104px; }
+.f_1 .j { background-position: -232px -104px; }
+.f_2 .j { background-position: -256px -104px; }
+.f_3 .j { background-position: -280px -104px; }
+.f_4 .j { background-position: -304px -104px; }
+.f_5 .j { background-position: -328px -104px; }
+.f_6 .j { background-position: -352px -104px; }
+.f_7 .j { background-position: -376px -104px; }
+.f_0 .k { background-position: -208px -128px; }
+.f_1 .k { background-position: -232px -128px; }
+.f_2 .k { background-position: -256px -128px; }
+.f_3 .k { background-position: -280px -128px; }
+.f_4 .k { background-position: -304px -128px; }
+.f_5 .k { background-position: -328px -128px; }
+.f_6 .k { background-position: -352px -128px; }
+.f_7 .k { background-position: -376px -128px; }
+.f_0 .d { background-position: -8px -208px; }
+.f_1 .d { background-position: -32px -208px; }
+.f_2 .d { background-position: -56px -208px; }
+.f_3 .d { background-position: -80px -208px; }
+.f_4 .d { background-position: -104px -208px; }
+.f_5 .d { background-position: -128px -208px; }
+.f_6 .d { background-position: -152px -208px; }
+.f_7 .d { background-position: -176px -208px; }
+.f_0 .u, .f_0 .v, .f_0 .c, .f_0 .m { background-position: -8px -184px; }
+.f_1 .u, .f_1 .v, .f_1 .c, .f_1 .m { background-position: -32px -184px; }
+.f_2 .u, .f_2 .v, .f_2 .c, .f_2 .m { background-position: -56px -184px; }
+.f_3 .u, .f_3 .v, .f_3 .c, .f_3 .m { background-position: -80px -184px; }
+.f_4 .u, .f_4 .v, .f_4 .c, .f_4 .m { background-position: -104px -184px; }
+.f_5 .u, .f_5 .v, .f_5 .c, .f_5 .m { background-position: -128px -184px; }
+.f_6 .u, .f_6 .v, .f_6 .c, .f_6 .m { background-position: -152px -184px; }
+.f_7 .u, .f_7 .v, .f_7 .c, .f_7 .m { background-position: -176px -184px; }
+.f_0 .t, .f_0 .r, .f_0 .b, .f_0 .l { background-position: -8px -232px; }
+.f_1 .t, .f_1 .r, .f_1 .b, .f_1 .l { background-position: -32px -232px; }
+.f_2 .t, .f_2 .r, .f_2 .b, .f_2 .l { background-position: -56px -232px; }
+.f_3 .t, .f_3 .r, .f_3 .b, .f_3 .l { background-position: -80px -232px; }
+.f_4 .t, .f_4 .r, .f_4 .b, .f_4 .l { background-position: -104px -232px; }
+.f_5 .t, .f_5 .r, .f_5 .b, .f_5 .l { background-position: -128px -232px; }
+.f_6 .t, .f_6 .r, .f_6 .b, .f_6 .l { background-position: -152px -232px; }
+.f_7 .t, .f_7 .r, .f_7 .b, .f_7 .l { background-position: -176px -232px; }
