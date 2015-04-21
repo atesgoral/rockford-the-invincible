@@ -1,22 +1,83 @@
-body { color: #38B2DD; background-color: #002837; margin: 0px; font-family: Arial; }
-a { color: #ACE9FF; text-decoration: none; }
-h1, h5 { padding: 0px; margin: 0px; }
-h5 { font-size: 0.80em; font-family: Georgia; }
-table { background-color: #444; }
-#head { background-color: black; padding: 64px 0px 0.5em 64px; color: #319CC2; }
-#head h1 { font-family: Georgia; display: inline; padding-right: 40px; background-image: url(rockford_big.gif); background-repeat: no-repeat; background-position: 100% 50%; }
-#head .alert { color: #C23030; }
-#main { margin-left: 64px; margin-top: 1px; }
-#cap { margin: 32px 0px; width: 240px; position: relative; z-index: 1; float: left; cursor: crosshair; }
-#instr { margin-left: 304px; padding-top: 32px; }
-.clear { clear: left; }
-p, ul { text-transform: uppercase; font-size: 9px; }
-ul { list-style-type: square; margin: 0.5em 0px; }
-ul { padding-left: 0px; }
-li { line-height: 14px; }
-td { width: 16px; height: 16px; }
-.alert { color: #DD3737; }
-td { background-image: url(_graphics.gif); }
+body {
+    color: #38B2DD;
+    background-color: #002837;
+    margin: 0px;
+    font-family: Arial;
+}
+a {
+    color: #ACE9FF;
+    text-decoration: none;
+}
+h1, h5 {
+    padding: 0px;
+    margin: 0px;
+}
+h5 {
+    font-size: 0.80em;
+    font-family: Georgia;
+}
+table {
+    background-color: #444;
+}
+#head {
+    background-color: black;
+    padding: 64px 0px 0.5em 64px;
+    color: #319CC2;
+}
+#head h1 {
+    font-family: Georgia;
+    display: inline;
+    padding-right: 40px;
+    background-image: url(rockford_big.gif);
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+}
+#head .alert {
+    color: #C23030;
+}
+#main {
+    margin-left: 64px;
+    margin-top: 1px;
+}
+#cap {
+    margin: 32px 0px;
+    width: 240px;
+    position: relative;
+    z-index: 1;
+    float: left;
+    cursor: crosshair;
+}
+#instr {
+    margin-left: 304px;
+    padding-top: 32px;
+}
+.clear {
+    clear: left;
+}
+p, ul {
+    text-transform: uppercase;
+    font-size: 9px;
+}
+ul {
+    list-style-type: square;
+    margin: 0.5em 0px;
+}
+ul {
+    padding-left: 0px;
+}
+li {
+    line-height: 14px;
+}
+td {
+    width: 16px;
+    height: 16px;
+}
+.alert {
+    color: #DD3737;
+}
+td {
+    background-image: url(_graphics.gif);
+}
 .e { background-position: -8px -128px; }
 .i { background-position: -128px -104px; }
 .w { background-position: -176px -104px; }
