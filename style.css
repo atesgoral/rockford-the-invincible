@@ -76,7 +76,7 @@ td {
     color: #DD3737;
 }
 td {
-    background-image: url(_graphics.gif);
+    background-image: url(sprites.gif);
 }
 .e { background-position: -8px -128px; }
 .i { background-position: -128px -104px; }
